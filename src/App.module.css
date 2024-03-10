@@ -1,0 +1,17 @@
+.bodyWrapper {
+  margin-left: 100px;
+  margin-right: 100px;
+
+  .headingWrapper {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .addButton {
+    width: 150px;
+    height: 50px;
+    margin-bottom: 10px;
+  }
+}

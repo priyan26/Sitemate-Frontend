@@ -1,0 +1,11 @@
+.modalWrapper {
+  .title {
+    font-size: 40px;
+    font-weight: 600;
+  }
+
+  .inputTitle {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}
